@@ -1,0 +1,181 @@
+.box{
+	transition: transform 2s;
+	box-shadow: 2px 5px 5px 5px ;
+
+}
+.box:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1); 
+}
+.box2{
+	
+	transition: transform 2s;
+}
+.box2:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1); 
+  color: black;
+  font-size: 20px;
+  font-family: Brush Script Std;
+}
+.about_div{
+	background:linear-gradient(90deg,#ff8000,#992952,#ff0000);
+	border-top-right-radius: 150px;
+	border-bottom-left-radius: 150px;
+	border:5px solid  #ff0000;
+	color: #262626;
+	font-size: 17px;
+	font-family: Verdana,cursive; 
+	color: white; 
+	border:2px solid yellow; 
+
+
+}
+.button{
+	height: 40px;
+	width: 150px;
+	cursor: pointer;
+	border-top-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	border:2px solid yellow;
+	background-color: pink; 
+}
+.ul{
+	color: red;
+}
+.inf{
+	background-color: blue;
+	border: 2px solid yellow; 
+}
+.infb{
+	color: red;
+}
+.inf p{
+	color: black;
+	font-style: bold;
+	font-family: initial;
+}
+#show{
+	background-color: #0000ff;
+	color: white;
+}
+.sp{
+	color: white;
+}
+.a{
+
+}
+.cont{
+	background-color: red;
+}
+.background{
+	background-image:url(images/bg_1.jpg);
+}
+.background1{
+	background-image:url(images/bg_2.jpg);
+}
+.background2{
+	 background-image: url(images/3.jpg);
+}
+.background3{
+	background-image: url(images/abc.jpg);
+}
+.background4{
+	background-image: url(images/mu.jpg);
+}
+.background5{
+	background-image: url(images/na1.jpg);
+}
+.background6{
+	background-image: url(images/na2.jpg);
+}
+.courses1{
+	background-image: url(images/course-1.jpg);
+}
+.courses2{
+	background-image: url(images/course-2.jpg);
+}
+.courses3{
+	background-image: url(images/course-3.jpg);
+}
+.courses4{
+	background-image: url(images/course-4.jpeg);
+}
+.background7{
+	background-image: url(images/bg_4.jpg);
+}
+.testimonial1{
+	background-image: url(images/teacher-1.jpeg);
+}
+.testimonial2{
+	 background-image: url(images/teacher-2.jpeg);
+}
+.testimonial3{
+	 background-image: url(images/teacher-3.jpeg);
+}
+.testimonial4{
+	background-image: url(images/teacher-4.jpeg);
+}
+.testimonial5{
+	 background-image: url(images/abc.jpg);
+}
+.background8{
+	background-image: url(images/bg_5.jpg);
+}
+.Informations1{
+	background-image: url(images/a.jpg);
+}
+.Informations2{
+	background-image: url(images/b.jpg);
+}
+.Informations3{
+	background-image: url(images/c.jpg);
+}
+.Informations4{
+	background-image: url(images/d.jpg);
+}
+.Gallery1{
+	background-image: url(images/g1.jpeg);
+}
+.Gallery2{
+	background-image: url(images/g2.jpg);
+}
+
+.Gallery4{
+	background-image: url(images/g4.png);
+}
+.Gallery5{
+	background-image: url(images/g5.jpg);
+}
+.Gallery6{
+	background-image: url(images/g6.jpg);
+}
+.Gallery7{
+	 background-image: url(images/image_3.jpg);
+}
+.Gallery8{
+    background-image: url(images/image_4.jpg);
+}
+.backgroundall{
+	background-image: url('images/back.jpg');
+}
+.teacher01{
+	background-image: url(images/teacher-2.jpeg);
+}
+.teacher02{
+	background-image: url(images/teacher-3.jpeg);
+}
+.teacher03{
+	background-image: url(images/teacher-4.jpeg);
+}
+.teacher04{
+	background-image: url(images/teacher-5.jpeg);
+}
+.courses01{
+    background-image: url(images/course-5.jpg);
+}
+.courses02{
+      background-image: url(images/course-6.jpg);
+}
